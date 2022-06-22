@@ -1,4 +1,4 @@
-+import time
+import time
 from adafruit_circuitplayground import cp
 
 while True: 
